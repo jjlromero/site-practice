@@ -14,3 +14,5 @@ This is cool, but saving is a problem.
 - it is in the cloud  
 - find preview  
 So you commit your changes just like normal.  
+## Testing from iPad  
+- This iPad has an M2 chip. Yet it is freezing when I try to use Copilot.  
